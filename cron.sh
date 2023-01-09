@@ -8,4 +8,4 @@ echo "*/5 * * * * $(pwd)/ddns.sh" >> additional_cron
 
 #install new cron file
 crontab additional_cron
-rm sorted_cron additional_cron
+rm additional_cron
