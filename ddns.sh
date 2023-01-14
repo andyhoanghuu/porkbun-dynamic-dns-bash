@@ -5,7 +5,10 @@
 #SECRET_KEY=
 #API_KEY=
 
-export $(grep -v '^#' .env | xargs)
+BASEDIR=$(dirname "$0")
+ENV_PATH="$BASEDIR"/.env
+
+export $(grep -v '^#' "$ENV_PATH" | xargs)
 
 RECORD=$(curl --location --request POST "https://porkbun.com/api/json/v3/dns/retrieve/$DOMAIN" \
 --header 'Content-Type: application/json' \
