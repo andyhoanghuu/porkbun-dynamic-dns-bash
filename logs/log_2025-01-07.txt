@@ -1,0 +1,214 @@
+2025-01-07 00:00:02 - Cleaning old log files based on filename...
+2025-01-07 00:00:02 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:00:02 - --- Start DDNS Update ---
+2025-01-07 00:00:03 - Current DNS Record Content: 
+2025-01-07 00:00:03 - Current Modem IP: 42.118.1.248
+2025-01-07 00:00:03 - No IP change detected. No update needed.
+2025-01-07 00:00:03 - --- Finish DDNS Update ---
+2025-01-07 00:05:01 - Cleaning old log files based on filename...
+2025-01-07 00:05:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:05:01 - --- Start DDNS Update ---
+2025-01-07 00:05:11 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:05:11 - Current Modem IP: 42.118.1.248
+2025-01-07 00:05:11 - No IP change detected. No update needed.
+2025-01-07 00:05:11 - --- Finish DDNS Update ---
+2025-01-07 00:10:01 - Cleaning old log files based on filename...
+2025-01-07 00:10:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:10:01 - --- Start DDNS Update ---
+2025-01-07 00:10:16 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:10:16 - Current Modem IP: 42.118.1.248
+2025-01-07 00:10:16 - No IP change detected. No update needed.
+2025-01-07 00:10:16 - --- Finish DDNS Update ---
+2025-01-07 00:15:01 - Cleaning old log files based on filename...
+2025-01-07 00:15:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:15:01 - --- Start DDNS Update ---
+2025-01-07 00:15:15 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:15:15 - Current Modem IP: 42.118.1.248
+2025-01-07 00:15:15 - No IP change detected. No update needed.
+2025-01-07 00:15:15 - --- Finish DDNS Update ---
+2025-01-07 00:20:01 - Cleaning old log files based on filename...
+2025-01-07 00:20:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:20:01 - --- Start DDNS Update ---
+2025-01-07 00:20:15 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:20:15 - Current Modem IP: 42.118.1.248
+2025-01-07 00:20:15 - No IP change detected. No update needed.
+2025-01-07 00:20:15 - --- Finish DDNS Update ---
+2025-01-07 00:25:01 - Cleaning old log files based on filename...
+2025-01-07 00:25:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:25:01 - --- Start DDNS Update ---
+2025-01-07 00:25:12 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:25:12 - Current Modem IP: 42.118.1.248
+2025-01-07 00:25:12 - No IP change detected. No update needed.
+2025-01-07 00:25:12 - --- Finish DDNS Update ---
+2025-01-07 00:30:01 - Cleaning old log files based on filename...
+2025-01-07 00:30:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:30:01 - --- Start DDNS Update ---
+2025-01-07 00:30:19 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:30:19 - Current Modem IP: 42.118.1.248
+2025-01-07 00:30:19 - No IP change detected. No update needed.
+2025-01-07 00:30:19 - --- Finish DDNS Update ---
+2025-01-07 00:35:02 - Cleaning old log files based on filename...
+2025-01-07 00:35:02 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:35:02 - --- Start DDNS Update ---
+2025-01-07 00:35:14 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:35:14 - Current Modem IP: 42.118.1.248
+2025-01-07 00:35:14 - No IP change detected. No update needed.
+2025-01-07 00:35:14 - --- Finish DDNS Update ---
+2025-01-07 00:40:01 - Cleaning old log files based on filename...
+2025-01-07 00:40:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:40:01 - --- Start DDNS Update ---
+2025-01-07 00:40:18 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:40:18 - Current Modem IP: 42.118.1.248
+2025-01-07 00:40:18 - No IP change detected. No update needed.
+2025-01-07 00:40:18 - --- Finish DDNS Update ---
+2025-01-07 00:45:01 - Cleaning old log files based on filename...
+2025-01-07 00:45:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:45:01 - --- Start DDNS Update ---
+2025-01-07 00:45:13 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:45:13 - Current Modem IP: 42.118.1.248
+2025-01-07 00:45:13 - No IP change detected. No update needed.
+2025-01-07 00:45:13 - --- Finish DDNS Update ---
+2025-01-07 00:50:01 - Cleaning old log files based on filename...
+2025-01-07 00:50:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:50:01 - --- Start DDNS Update ---
+2025-01-07 00:50:12 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:50:12 - Current Modem IP: 42.118.1.248
+2025-01-07 00:50:12 - No IP change detected. No update needed.
+2025-01-07 00:50:12 - --- Finish DDNS Update ---
+2025-01-07 00:55:01 - Cleaning old log files based on filename...
+2025-01-07 00:55:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 00:55:01 - --- Start DDNS Update ---
+2025-01-07 00:55:07 - Current DNS Record Content: 42.118.1.248
+2025-01-07 00:55:07 - Current Modem IP: 42.118.1.248
+2025-01-07 00:55:07 - No IP change detected. No update needed.
+2025-01-07 00:55:07 - --- Finish DDNS Update ---
+2025-01-07 01:00:01 - Cleaning old log files based on filename...
+2025-01-07 01:00:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:00:01 - --- Start DDNS Update ---
+2025-01-07 01:00:03 - Current DNS Record Content: 
+2025-01-07 01:00:03 - Current Modem IP: 42.118.1.248
+2025-01-07 01:00:03 - No IP change detected. No update needed.
+2025-01-07 01:00:03 - --- Finish DDNS Update ---
+2025-01-07 01:05:01 - Cleaning old log files based on filename...
+2025-01-07 01:05:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:05:01 - --- Start DDNS Update ---
+2025-01-07 01:05:09 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:05:09 - Current Modem IP: 42.118.1.248
+2025-01-07 01:05:09 - No IP change detected. No update needed.
+2025-01-07 01:05:09 - --- Finish DDNS Update ---
+2025-01-07 01:10:01 - Cleaning old log files based on filename...
+2025-01-07 01:10:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:10:01 - --- Start DDNS Update ---
+2025-01-07 01:10:08 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:10:08 - Current Modem IP: 42.118.1.248
+2025-01-07 01:10:08 - No IP change detected. No update needed.
+2025-01-07 01:10:08 - --- Finish DDNS Update ---
+2025-01-07 01:15:01 - Cleaning old log files based on filename...
+2025-01-07 01:15:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:15:01 - --- Start DDNS Update ---
+2025-01-07 01:15:15 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:15:15 - Current Modem IP: 42.118.1.248
+2025-01-07 01:15:15 - No IP change detected. No update needed.
+2025-01-07 01:15:15 - --- Finish DDNS Update ---
+2025-01-07 01:20:01 - Cleaning old log files based on filename...
+2025-01-07 01:20:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:20:01 - --- Start DDNS Update ---
+2025-01-07 01:20:17 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:20:17 - Current Modem IP: 42.118.1.248
+2025-01-07 01:20:17 - No IP change detected. No update needed.
+2025-01-07 01:20:17 - --- Finish DDNS Update ---
+2025-01-07 01:25:01 - Cleaning old log files based on filename...
+2025-01-07 01:25:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:25:01 - --- Start DDNS Update ---
+2025-01-07 01:25:09 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:25:09 - Current Modem IP: 42.118.1.248
+2025-01-07 01:25:09 - No IP change detected. No update needed.
+2025-01-07 01:25:09 - --- Finish DDNS Update ---
+2025-01-07 01:30:01 - Cleaning old log files based on filename...
+2025-01-07 01:30:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:30:01 - --- Start DDNS Update ---
+2025-01-07 01:30:25 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:30:25 - Current Modem IP: 42.118.1.248
+2025-01-07 01:30:25 - No IP change detected. No update needed.
+2025-01-07 01:30:25 - --- Finish DDNS Update ---
+2025-01-07 01:35:01 - Cleaning old log files based on filename...
+2025-01-07 01:35:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:35:01 - --- Start DDNS Update ---
+2025-01-07 01:35:09 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:35:09 - Current Modem IP: 42.118.1.248
+2025-01-07 01:35:09 - No IP change detected. No update needed.
+2025-01-07 01:35:09 - --- Finish DDNS Update ---
+2025-01-07 01:40:01 - Cleaning old log files based on filename...
+2025-01-07 01:40:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:40:01 - --- Start DDNS Update ---
+2025-01-07 01:40:16 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:40:16 - Current Modem IP: 42.118.1.248
+2025-01-07 01:40:16 - No IP change detected. No update needed.
+2025-01-07 01:40:16 - --- Finish DDNS Update ---
+2025-01-07 01:45:01 - Cleaning old log files based on filename...
+2025-01-07 01:45:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:45:01 - --- Start DDNS Update ---
+2025-01-07 01:45:13 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:45:13 - Current Modem IP: 42.118.1.248
+2025-01-07 01:45:13 - No IP change detected. No update needed.
+2025-01-07 01:45:13 - --- Finish DDNS Update ---
+2025-01-07 01:50:01 - Cleaning old log files based on filename...
+2025-01-07 01:50:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:50:01 - --- Start DDNS Update ---
+2025-01-07 01:50:12 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:50:12 - Current Modem IP: 42.118.1.248
+2025-01-07 01:50:12 - No IP change detected. No update needed.
+2025-01-07 01:50:12 - --- Finish DDNS Update ---
+2025-01-07 01:55:01 - Cleaning old log files based on filename...
+2025-01-07 01:55:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 01:55:01 - --- Start DDNS Update ---
+2025-01-07 01:55:11 - Current DNS Record Content: 42.118.1.248
+2025-01-07 01:55:11 - Current Modem IP: 42.118.1.248
+2025-01-07 01:55:11 - No IP change detected. No update needed.
+2025-01-07 01:55:11 - --- Finish DDNS Update ---
+2025-01-07 02:00:01 - Cleaning old log files based on filename...
+2025-01-07 02:00:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 02:00:01 - --- Start DDNS Update ---
+2025-01-07 02:00:22 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:00:22 - Current Modem IP: 42.118.1.248
+2025-01-07 02:00:22 - No IP change detected. No update needed.
+2025-01-07 02:00:22 - --- Finish DDNS Update ---
+2025-01-07 02:05:01 - Cleaning old log files based on filename...
+2025-01-07 02:05:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 02:05:01 - --- Start DDNS Update ---
+2025-01-07 02:05:14 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:05:14 - Current Modem IP: 42.118.1.248
+2025-01-07 02:05:14 - No IP change detected. No update needed.
+2025-01-07 02:05:14 - --- Finish DDNS Update ---
+2025-01-07 02:10:01 - Cleaning old log files based on filename...
+2025-01-07 02:10:01 - Old log files older than 7 days (by filename) have been removed.
+2025-01-07 02:10:01 - --- Start DDNS Update ---
+2025-01-07 02:10:14 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:10:14 - Current Modem IP: 42.118.1.248
+2025-01-07 02:10:14 - No IP change detected. No update needed.
+2025-01-07 02:10:14 - --- Finish DDNS Update ---
+2025-01-07 02:14:55 - --- Start DDNS Update ---
+2025-01-07 02:14:56 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:14:56 - Current Modem IP: 42.118.1.248
+2025-01-07 02:14:56 - No IP change detected. No update needed.
+2025-01-07 02:14:56 - --- Finish DDNS Update ---
+2025-01-07 02:15:01 - --- Start DDNS Update ---
+2025-01-07 02:15:16 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:15:16 - Current Modem IP: 42.118.1.248
+2025-01-07 02:15:16 - No IP change detected. No update needed.
+2025-01-07 02:15:16 - --- Finish DDNS Update ---
+2025-01-07 02:16:41 - --- Start DDNS Update ---
+2025-01-07 02:16:42 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:16:42 - Current Modem IP: 42.118.1.248
+2025-01-07 02:16:42 - No IP change detected. No update needed.
+2025-01-07 02:16:42 - --- Finish DDNS Update ---
+2025-01-07 02:20:01 - --- Start DDNS Update ---
+2025-01-07 02:20:10 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:20:10 - Current Modem IP: 42.118.1.248
+2025-01-07 02:20:10 - No IP change detected. No update needed.
+2025-01-07 02:20:10 - --- Finish DDNS Update ---
+2025-01-07 02:25:01 - --- Start DDNS Update ---
+2025-01-07 02:25:09 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:25:09 - Current Modem IP: 42.118.1.248
+2025-01-07 02:25:09 - No IP change detected. No update needed.
+2025-01-07 02:25:09 - --- Finish DDNS Update ---

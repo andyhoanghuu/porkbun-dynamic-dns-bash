@@ -5,39 +5,62 @@
 #SECRET_KEY=
 #API_KEY=
 
+API_URL="https://api.porkbun.com/api/json/v3/dns"
 BASEDIR=$(dirname "$0")
-ENV_PATH="$BASEDIR"/.env
+ENV_PATH="$BASEDIR/.env"
+LOG_DIR="$BASEDIR/logs"
+LOG_FILE="$LOG_DIR/log_$(date '+%Y-%m-%d').txt"
 
+# Tạo thư mục logs nếu chưa tồn tại
+mkdir -p "$LOG_DIR"
+touch "$LOG_FILE"
+
+# Hàm ghi log
+log() {
+    echo "$(date '+%Y-%m-%d %H:%M:%S') - $1" | tee -a "$LOG_FILE"
+}
+
+# Tải biến môi trường
 export $(grep -v '^#' "$ENV_PATH" | xargs)
 
-RECORD=$(curl --location --request POST "https://porkbun.com/api/json/v3/dns/retrieve/$DOMAIN" \
+log "--- Start DDNS Update ---"
+
+# Lấy thông tin DNS record
+RECORD=$(curl --location --request POST "$API_URL/retrieve/$DOMAIN" \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "secretapikey": "'"$SECRET_KEY"'",
     "apikey": "'"$API_KEY"'"
 }' | jq -r .records[0])
 
-if [ "$RECORD" = "null" ]
-then
-      echo "Something went wrong!"
+# Kiểm tra kết quả trả về
+if [ "$RECORD" = "null" ]; then
+    log "Error: Cannot retrieve DNS record."
 else
-      ID=$(echo "$RECORD" | jq -r .id);
-      TYPE=$(echo "$RECORD" | jq -r .type);
-      CONTENT=$(echo "$RECORD" | jq -r .content);
+    ID=$(echo "$RECORD" | jq -r .id)
+    TYPE=$(echo "$RECORD" | jq -r .type)
+    CONTENT=$(echo "$RECORD" | jq -r .content)
+    MODEM_IP=$(curl -4 icanhazip.com)
 
-      MODEM_IP=$(curl -4 icanhazip.com)
+    log "Current DNS Record Content: $CONTENT"
+    log "Current Modem IP: $MODEM_IP"
 
-      if [ "$TYPE" = "A" ] && [ "$MODEM_IP" != "$CONTENT" ]
-      then
-            curl --location --request POST "https://porkbun.com/api/json/v3/dns/edit/$DOMAIN/$ID" \
-            --header 'Content-Type: application/json' \
-            --data-raw '{
-            	"secretapikey": "'"$SECRET_KEY"'",
-              "apikey": "'"$API_KEY"'",
-              "type": "A",
-            	"content": "'"$MODEM_IP"'",
-            	"ttl": "300"
-            }'
-      fi
+    if [ "$TYPE" = "A" ] && [ "$MODEM_IP" != "$CONTENT" ]; then
+        log "IP has changed. Starting DNS update..."
+        RESPONSE=$(curl --location --request POST "$API_URL/edit/$DOMAIN/$ID" \
+        --header 'Content-Type: application/json' \
+        --data-raw '{
+            "secretapikey": "'"$SECRET_KEY"'",
+            "apikey": "'"$API_KEY"'",
+            "type": "A",
+            "content": "'"$MODEM_IP"'",
+            "ttl": "300"
+        }')
+        
+        log "API Response: $RESPONSE"
+    else
+        log "No IP change detected. No update needed."
+    fi
 fi
 
+log "--- Finish DDNS Update ---"
