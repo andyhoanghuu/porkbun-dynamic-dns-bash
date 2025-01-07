@@ -212,3 +212,177 @@
 2025-01-07 02:25:09 - Current Modem IP: 42.118.1.248
 2025-01-07 02:25:09 - No IP change detected. No update needed.
 2025-01-07 02:25:09 - --- Finish DDNS Update ---
+2025-01-07 02:30:01 - --- Start DDNS Update ---
+2025-01-07 02:30:21 - Current DNS Record Content: 42.118.1.248
+2025-01-07 02:30:21 - Current Modem IP: 42.118.1.248
+2025-01-07 02:30:21 - No IP change detected. No update needed.
+2025-01-07 02:30:21 - --- Finish DDNS Update ---
+2025-01-07 02:40:01 - --- Start DDNS Update ---
+2025-01-07 02:40:12 - Current Record IP: 42.118.1.248
+2025-01-07 02:40:12 - Current Modem IP : 42.118.1.248
+2025-01-07 02:40:12 - No IP change detected. No update needed.
+2025-01-07 02:40:12 - --- Finish DDNS Update ---
+2025-01-07 02:50:01 - --- Start DDNS Update ---
+2025-01-07 02:50:13 - Current Record IP: 42.118.1.248
+2025-01-07 02:50:13 - Current Modem IP : 42.118.1.248
+2025-01-07 02:50:13 - No IP change detected. No update needed.
+2025-01-07 02:50:13 - --- Finish DDNS Update ---
+2025-01-07 03:00:01 - --- Start DDNS Update ---
+2025-01-07 03:00:22 - Current Record IP: 42.118.1.248
+2025-01-07 03:00:22 - Current Modem IP : 42.118.1.248
+2025-01-07 03:00:22 - No IP change detected. No update needed.
+2025-01-07 03:00:22 - --- Finish DDNS Update ---
+2025-01-07 03:10:01 - --- Start DDNS Update ---
+2025-01-07 03:10:15 - Current Record IP: 42.118.1.248
+2025-01-07 03:10:15 - Current Modem IP : 42.118.1.248
+2025-01-07 03:10:15 - No IP change detected. No update needed.
+2025-01-07 03:10:15 - --- Finish DDNS Update ---
+2025-01-07 03:20:01 - --- Start DDNS Update ---
+2025-01-07 03:20:16 - Current Record IP: 42.118.1.248
+2025-01-07 03:20:16 - Current Modem IP : 42.118.1.248
+2025-01-07 03:20:16 - No IP change detected. No update needed.
+2025-01-07 03:20:16 - --- Finish DDNS Update ---
+2025-01-07 03:30:01 - --- Start DDNS Update ---
+2025-01-07 03:30:19 - Current Record IP: 42.118.1.248
+2025-01-07 03:30:19 - Current Modem IP : 42.118.1.248
+2025-01-07 03:30:19 - No IP change detected. No update needed.
+2025-01-07 03:30:19 - --- Finish DDNS Update ---
+2025-01-07 03:40:01 - --- Start DDNS Update ---
+2025-01-07 03:40:12 - Current Record IP: 42.118.1.248
+2025-01-07 03:40:12 - Current Modem IP : 42.118.1.248
+2025-01-07 03:40:12 - No IP change detected. No update needed.
+2025-01-07 03:40:12 - --- Finish DDNS Update ---
+2025-01-07 03:50:01 - --- Start DDNS Update ---
+2025-01-07 03:50:19 - Current Record IP: 42.118.1.248
+2025-01-07 03:50:19 - Current Modem IP : 42.118.1.248
+2025-01-07 03:50:19 - No IP change detected. No update needed.
+2025-01-07 03:50:19 - --- Finish DDNS Update ---
+2025-01-07 04:00:01 - --- Start DDNS Update ---
+2025-01-07 04:00:02 - Current Record IP: 
+2025-01-07 04:00:02 - Current Modem IP : 42.118.1.248
+2025-01-07 04:00:02 - No IP change detected. No update needed.
+2025-01-07 04:00:02 - --- Finish DDNS Update ---
+2025-01-07 04:10:01 - --- Start DDNS Update ---
+2025-01-07 04:10:17 - Current Record IP: 42.118.1.248
+2025-01-07 04:10:17 - Current Modem IP : 42.118.1.248
+2025-01-07 04:10:17 - No IP change detected. No update needed.
+2025-01-07 04:10:17 - --- Finish DDNS Update ---
+2025-01-07 04:20:01 - --- Start DDNS Update ---
+2025-01-07 04:20:11 - Current Record IP: 42.118.1.248
+2025-01-07 04:20:11 - Current Modem IP : 42.118.1.248
+2025-01-07 04:20:11 - No IP change detected. No update needed.
+2025-01-07 04:20:11 - --- Finish DDNS Update ---
+2025-01-07 04:30:01 - --- Start DDNS Update ---
+2025-01-07 04:30:13 - Current Record IP: 42.118.1.248
+2025-01-07 04:30:13 - Current Modem IP : 42.118.1.248
+2025-01-07 04:30:13 - No IP change detected. No update needed.
+2025-01-07 04:30:13 - --- Finish DDNS Update ---
+2025-01-07 04:40:01 - --- Start DDNS Update ---
+2025-01-07 04:40:09 - Current Record IP: 42.118.1.248
+2025-01-07 04:40:09 - Current Modem IP : 42.118.1.248
+2025-01-07 04:40:09 - No IP change detected. No update needed.
+2025-01-07 04:40:09 - --- Finish DDNS Update ---
+2025-01-07 04:50:01 - --- Start DDNS Update ---
+2025-01-07 04:50:13 - Current Record IP: 42.118.1.248
+2025-01-07 04:50:13 - Current Modem IP : 42.118.1.248
+2025-01-07 04:50:13 - No IP change detected. No update needed.
+2025-01-07 04:50:13 - --- Finish DDNS Update ---
+2025-01-07 05:00:01 - --- Start DDNS Update ---
+2025-01-07 05:00:17 - Current Record IP: 42.118.1.248
+2025-01-07 05:00:17 - Current Modem IP : 42.118.1.248
+2025-01-07 05:00:17 - No IP change detected. No update needed.
+2025-01-07 05:00:17 - --- Finish DDNS Update ---
+2025-01-07 05:10:01 - --- Start DDNS Update ---
+2025-01-07 05:10:08 - Current Record IP: 42.118.1.248
+2025-01-07 05:10:08 - Current Modem IP : 42.118.1.248
+2025-01-07 05:10:08 - No IP change detected. No update needed.
+2025-01-07 05:10:08 - --- Finish DDNS Update ---
+2025-01-07 05:20:01 - --- Start DDNS Update ---
+2025-01-07 05:20:16 - Current Record IP: 42.118.1.248
+2025-01-07 05:20:16 - Current Modem IP : 42.118.1.248
+2025-01-07 05:20:16 - No IP change detected. No update needed.
+2025-01-07 05:20:16 - --- Finish DDNS Update ---
+2025-01-07 05:30:01 - --- Start DDNS Update ---
+2025-01-07 05:30:23 - Current Record IP: 42.118.1.248
+2025-01-07 05:30:23 - Current Modem IP : 42.118.1.248
+2025-01-07 05:30:23 - No IP change detected. No update needed.
+2025-01-07 05:30:23 - --- Finish DDNS Update ---
+2025-01-07 05:40:01 - --- Start DDNS Update ---
+2025-01-07 05:40:17 - Current Record IP: 42.118.1.248
+2025-01-07 05:40:17 - Current Modem IP : 42.118.1.248
+2025-01-07 05:40:17 - No IP change detected. No update needed.
+2025-01-07 05:40:17 - --- Finish DDNS Update ---
+2025-01-07 05:50:01 - --- Start DDNS Update ---
+2025-01-07 05:50:15 - Current Record IP: 42.118.1.248
+2025-01-07 05:50:15 - Current Modem IP : 42.118.1.248
+2025-01-07 05:50:15 - No IP change detected. No update needed.
+2025-01-07 05:50:15 - --- Finish DDNS Update ---
+2025-01-07 06:00:01 - --- Start DDNS Update ---
+2025-01-07 06:00:26 - Current Record IP: 42.118.1.248
+2025-01-07 06:00:26 - Current Modem IP : 42.118.1.248
+2025-01-07 06:00:26 - No IP change detected. No update needed.
+2025-01-07 06:00:26 - --- Finish DDNS Update ---
+2025-01-07 06:10:01 - --- Start DDNS Update ---
+2025-01-07 06:10:18 - Current Record IP: 42.118.1.248
+2025-01-07 06:10:18 - Current Modem IP : 42.118.1.248
+2025-01-07 06:10:18 - No IP change detected. No update needed.
+2025-01-07 06:10:18 - --- Finish DDNS Update ---
+2025-01-07 06:20:01 - --- Start DDNS Update ---
+2025-01-07 06:20:12 - Current Record IP: 42.118.1.248
+2025-01-07 06:20:12 - Current Modem IP : 42.118.1.248
+2025-01-07 06:20:12 - No IP change detected. No update needed.
+2025-01-07 06:20:12 - --- Finish DDNS Update ---
+2025-01-07 06:30:01 - --- Start DDNS Update ---
+2025-01-07 06:30:22 - Current Record IP: 42.118.1.248
+2025-01-07 06:30:22 - Current Modem IP : 42.118.1.248
+2025-01-07 06:30:22 - No IP change detected. No update needed.
+2025-01-07 06:30:22 - --- Finish DDNS Update ---
+2025-01-07 06:40:01 - --- Start DDNS Update ---
+2025-01-07 06:40:17 - Current Record IP: 42.118.1.248
+2025-01-07 06:40:17 - Current Modem IP : 42.118.1.248
+2025-01-07 06:40:17 - No IP change detected. No update needed.
+2025-01-07 06:40:17 - --- Finish DDNS Update ---
+2025-01-07 06:50:01 - --- Start DDNS Update ---
+2025-01-07 06:50:10 - Current Record IP: 42.118.1.248
+2025-01-07 06:50:10 - Current Modem IP : 42.118.1.248
+2025-01-07 06:50:10 - No IP change detected. No update needed.
+2025-01-07 06:50:10 - --- Finish DDNS Update ---
+2025-01-07 06:59:07 - --- Start DDNS Update ---
+2025-01-07 06:59:08 - Error: Cannot retrieve DNS record or RECORD is null.
+2025-01-07 07:00:01 - --- Start DDNS Update ---
+2025-01-07 07:00:02 - Error: Cannot retrieve DNS record or RECORD is null.
+2025-01-07 07:03:28 - --- Start DDNS Update ---
+2025-01-07 07:03:29 - Current Record IP: 42.118.1.248
+2025-01-07 07:03:29 - Current Modem IP : 42.118.1.248
+2025-01-07 07:03:29 - No IP change detected. No update needed.
+2025-01-07 07:03:29 - --- Finish DDNS Update ---
+2025-01-07 07:04:13 - --- Start DDNS Update ---
+2025-01-07 07:04:15 - Current Record IP: 42.118.1.248
+2025-01-07 07:04:15 - Current Modem IP : 42.118.1.248
+2025-01-07 07:04:15 - No IP change detected. No update needed.
+2025-01-07 07:04:15 - --- Finish DDNS Update ---
+2025-01-07 07:06:09 - --- Start DDNS Update ---
+2025-01-07 07:06:12 - Current Record IP: 42.118.1.248
+2025-01-07 07:06:12 - Current Modem IP : 42.118.1.248
+2025-01-07 07:06:12 - No IP change detected. No update needed.
+2025-01-07 07:06:12 - --- Finish DDNS Update ---
+2025-01-07 08:07:16 - --- Start DDNS Update ---
+2025-01-07 08:07:18 - Current Record IP: 42.118.1.248
+2025-01-07 08:07:18 - Current Modem IP : 42.118.1.248
+2025-01-07 08:07:18 - No IP change detected. No update needed.
+2025-01-07 08:07:18 - --- Finish DDNS Update ---
+2025-01-07 08:14:08 - --- Start DDNS Update ---
+2025-01-07 08:14:11 - Current Record IP: 42.118.1.248
+2025-01-07 08:14:11 - Current Modem IP : 42.118.1.248
+2025-01-07 08:14:11 - No IP change detected. No update needed.
+2025-01-07 08:14:11 - --- Finish DDNS Update ---
+2025-01-07 08:16:49 - --- Start DDNS Update ---
+2025-01-07 08:16:50 - Current Record IP: 42.118.1.248
+2025-01-07 08:16:50 - Current Modem IP : 42.118.1.248
+2025-01-07 08:16:50 - No IP change detected. No update needed.
+2025-01-07 08:16:50 - --- Finish DDNS Update ---
+2025-01-07 08:22:27 - --- Start DDNS Update ---
+2025-01-07 08:22:29 - Current Record IP: 42.118.1.248
+2025-01-07 08:22:29 - Current Modem IP : 42.118.1.248
+2025-01-07 08:22:29 - No IP change detected. No update needed.
+2025-01-07 08:22:29 - --- Finish DDNS Update ---

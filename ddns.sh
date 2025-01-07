@@ -42,8 +42,8 @@ else
     CONTENT=$(echo "$RECORD" | jq -r .content)
     MODEM_IP=$(curl -4 icanhazip.com)
 
-    log "Current DNS Record Content: $CONTENT"
-    log "Current Modem IP: $MODEM_IP"
+    log "Current Record IP: $CONTENT"
+    log "Current Modem IP : $MODEM_IP"
 
     if [ "$TYPE" = "A" ] && [ "$MODEM_IP" != "$CONTENT" ]; then
         log "IP has changed. Starting DNS update..."
@@ -56,6 +56,12 @@ else
             "content": "'"$MODEM_IP"'",
             "ttl": "300"
         }')
+
+        EMAIL_BODY="The IP config has been changed from $CONTENT to $MODEM_IP"
+        SUBJECT="DDNS Update: IP Change Detected"
+
+        echo -e "Subject: $SUBJECT\n$EMAIL_BODY" | msmtp -a default andyhoanghuu@gmail.com
+
         
         log "API Response: $RESPONSE"
     else
@@ -64,3 +70,4 @@ else
 fi
 
 log "--- Finish DDNS Update ---"
+
