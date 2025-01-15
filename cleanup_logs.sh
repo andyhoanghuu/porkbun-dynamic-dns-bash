@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Thư mục chứa các file log
-LOG_DIR="logs"
+LOG_DIR="$(dirname "$0")/logs"
 
 # Di chuyển đến thư mục logs
 cd "$LOG_DIR" || exit 1
